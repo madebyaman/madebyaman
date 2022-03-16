@@ -13,6 +13,7 @@ Initially, I focussed on learning WordPress development but at the same time I a
 Since then, I have been working with React and building my own side projects with it.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madebyaman)](https://github.com/madebyaman)
+
 ![My profile stats](https://github-readme-stats.vercel.app/api?username=madebyaman)
 
 ## 🔭 I’m currently working on
