@@ -1,5 +1,5 @@
 # Hi 👋 I am Aman
-![Aman](https://res.cloudinary.com/dksughwo7/image/upload/w_350/v1580483332/hacker-journey/aman.png)
+![Aman](https://res.cloudinary.com/dksughwo7/image/upload/w_250,r_max/v1580483332/hacker-journey/aman.png)
 
 
 
