@@ -1,6 +1,7 @@
 # Hi 👋 I am Aman
+![Aman](https://res.cloudinary.com/dksughwo7/image/upload/w_350/v1580483332/hacker-journey/aman.png)
 
-![Aman](https://amanthakur.me/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdksughwo7%2Fimage%2Fupload%2Fv1646323986%2Fbook-notes-app%2Fprofile%2Fyd3ziylngywgbmbnlc48.png&w=640&q=75)
+
 
 ## ⚡ Fun fact
 
